@@ -1,0 +1,16 @@
+# Virtual environments (create per folder, see README)
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.idea/
+.vscode/
+
+# Captures and logs
+*.pcap
+*.pcapng
+*.log

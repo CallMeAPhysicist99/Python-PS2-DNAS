@@ -1,0 +1,2 @@
+# 3DES for connect replies (uses pycryptodome automatically if installed, otherwise pure Python)
+tlslite-ng==0.8.2
